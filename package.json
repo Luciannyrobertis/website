@@ -1,0 +1,20 @@
+{
+  "name": "flower-web",
+  "version": "1.0.0",
+  "description": "🌸 **Flower Shop Project**",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Luciannyrobertis/website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Luciannyrobertis/website/issues"
+  },
+  "homepage": "https://github.com/Luciannyrobertis/website#readme"
+}
